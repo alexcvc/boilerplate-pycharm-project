@@ -1,0 +1,13 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Virtual environments
+venv/
+.env/
+
+# PyCharm files
+.idea/
+
+# Logs
+*.log

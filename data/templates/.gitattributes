@@ -1,0 +1,4 @@
+*			text=auto 
+*.xml		text eol=lf 
+*.icd		text eol=lf 
+*.spp		text eol=lf 
